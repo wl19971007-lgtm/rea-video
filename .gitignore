@@ -12,6 +12,14 @@ eval/media/
 .env
 .env.*
 !.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.keystore
+.aws/
+.ssh/
 eval/code_videos.yaml
 eval/code_videos_holdout.yaml
 eval/particles.yaml
